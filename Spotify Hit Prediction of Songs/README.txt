@@ -15,8 +15,6 @@ Acknowledgement:
 
 Attributes:
 
-	For further reading: https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/
-
 	- track: The Name of the track.
 
 	- artist: The Name of the Artist.
