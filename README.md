@@ -1,4 +1,30 @@
-# Music Trend Analysis 
+# Music Trend App 
+
+Below is the overview of the app interface->
+
+### Home Page->
+
+![image](https://github.com/shaily29-eng/Music-Trend-Analysis/assets/59019087/204060a3-26cf-4c3a-a0e1-b24879d297dd)
+
+### Search choice- Song/Track with Track choice-> Song Features
+
+![image](https://github.com/shaily29-eng/Music-Trend-Analysis/assets/59019087/bf1869f7-bf6c-4784-bcc8-e574651b189b)
+
+### Search choice- Song/Track with Track choice-> Similar Songs Recommendation 
+
+![image](https://github.com/shaily29-eng/Music-Trend-Analysis/assets/59019087/cbdb7043-b9cb-468b-8f8a-ad3f1b78ad3f)
+
+### Search choice- Artist with Artist choice-> Albums
+
+![image](https://github.com/shaily29-eng/Music-Trend-Analysis/assets/59019087/01f937e4-251a-46f0-9e35-6c0f96bb66e4)
+
+### Search choice- Artist with Artist choice-> Top Songs
+
+![image](https://github.com/shaily29-eng/Music-Trend-Analysis/assets/59019087/5483abbf-5e3e-4ae3-be64-f96b5df57fe4)
+
+### Search choice- Album
+
+![image](https://github.com/shaily29-eng/Music-Trend-Analysis/assets/59019087/9dd82ed2-beef-48de-9975-239ef7365c03)
 
 Context:
 	
